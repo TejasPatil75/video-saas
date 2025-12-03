@@ -4,7 +4,8 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { getCldVideoUrl } from 'next-cloudinary';
 import VideoPlayer from '@/components/VideoPlayer';
-import { ArrowLeft, Calendar, Clock, Share2 } from 'lucide-react';
+import { ArrowLeft, Calendar, Clock } from 'lucide-react';
+import ShareButton from '@/components/ShareButton'; // <--- Import the new component
 
 const prisma = new PrismaClient();
 
@@ -102,10 +103,8 @@ export default async function SharePage({ params }: SharePageProps) {
                                 </div>
 
                                 <div className="pt-4 mt-4 border-t border-zinc-100 dark:border-zinc-800">
-                                    <button className="w-full flex items-center justify-center gap-2 bg-zinc-900 dark:bg-white text-white dark:text-black font-medium py-2.5 rounded-lg hover:opacity-90 transition-opacity text-sm">
-                                        <Share2 size={16} />
-                                        Share this Video
-                                    </button>
+                                    {/* Replaced static button with Client Component */}
+                                    <ShareButton />
                                 </div>
                             </div>
                         </div>

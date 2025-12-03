@@ -1,5 +1,5 @@
 import React from 'react';
-import { PrismaClient } from "@/app/generated/prisma/client";
+import { PrismaClient } from "@prisma/client";
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { getCldVideoUrl } from 'next-cloudinary';

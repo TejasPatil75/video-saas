@@ -200,15 +200,15 @@ Visit:
 
 ### VIDEO UPLOAD
 
-<img width="1920" height="865" alt="image" src="https://github.com/user-attachments/assets/e45dc4c8-bbb3-4ecb-9fe1-1f63832ed076" />
+<img width="1898" height="869" alt="Screenshot 2025-12-05 172140" src="https://github.com/user-attachments/assets/f01f6967-fd53-463f-abe6-fb30f2417a48" />
 
 ### PROFILE 
 
-<img width="1920" height="863" alt="Screenshot 2025-12-05 172357" src="https://github.com/user-attachments/assets/59ac1a07-fb55-4ca5-b97f-ebb0eed0f684" />
+<img width="1900" height="863" alt="Screenshot 2025-12-05 172357" src="https://github.com/user-attachments/assets/92e87ea2-0d03-4cc0-84b5-93a4e297fac3" />
 
 ### SHARE PAGE
 
-<img width="1920" height="923" alt="Screenshot 2025-12-05 173625" src="https://github.com/user-attachments/assets/98b8c6a3-21c6-4b7f-9a1a-f85120c50020" />
+<img width="1884" height="918" alt="Screenshot 2025-12-05 173625" src="https://github.com/user-attachments/assets/f840ddfb-aea0-43c1-9128-29045fcd0565" />
 
 ## NOTE :
 

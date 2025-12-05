@@ -1,8 +1,3 @@
-Here is a **clean, polished, merged, and recruiter-friendly `README.md`** that combines the strengths of both files while removing repetition and keeping everything crisp, modern, and impressive.
-
-You can **directly paste this into GitHub**.
-
----
 
 # 🎥 **GLIMPSE — AI-Powered Video SaaS Platform**
 
@@ -189,35 +184,34 @@ Visit:
 
 ---
 
-## 📸 Screenshots
+## UI
 
-(Add these for a stronger GitHub profile)
+### LANDING PAGE
 
-* Dashboard
-* Video Player
-* AI Chat Interface
-* Upload Page
+<img width="1893" height="846" alt="Screenshot 2025-12-05 171456" src="https://github.com/user-attachments/assets/9a74994f-a0ff-4277-ac6f-c8d8c20bf4b6" />
+<img width="1892" height="844" alt="Screenshot 2025-12-05 171534" src="https://github.com/user-attachments/assets/51ed24e1-862f-408d-a35b-dec2fef4d391" />
 
----
+### HOME PAGE
 
-## 🤝 Contributing
+<img width="1920" height="862" alt="Screenshot 2025-12-05 172338" src="https://github.com/user-attachments/assets/4454f507-4ff7-4e2f-bfb7-f9e6966c47e6" />
 
-1. Fork the repo
-2. Create a feature branch
-3. Commit your changes
-4. Push to GitHub
-5. Submit a pull request
+### VIDEO PLAYER & AI
 
----
+<img width="1920" height="865" alt="Screenshot 2025-12-05 172104" src="https://github.com/user-attachments/assets/521de04a-0622-45ca-968f-a52c91ecd8ca" />
 
-## 📄 License
+### VIDEO UPLOAD
 
-This project is licensed under the **MIT License**.
+<img width="1920" height="865" alt="image" src="https://github.com/user-attachments/assets/e45dc4c8-bbb3-4ecb-9fe1-1f63832ed076" />
 
----
+### PROFILE 
 
-If you’d like, I can also:
-✅ Generate a **professional GitHub repo description**
-✅ Create **badges** (Vercel, Cloudinary, Gemini, TypeScript, etc.)
-✅ Create a **demo GIF** text guide
-Just tell me!
+<img width="1920" height="863" alt="Screenshot 2025-12-05 172357" src="https://github.com/user-attachments/assets/59ac1a07-fb55-4ca5-b97f-ebb0eed0f684" />
+
+### SHARE PAGE
+
+<img width="1920" height="923" alt="Screenshot 2025-12-05 173625" src="https://github.com/user-attachments/assets/98b8c6a3-21c6-4b7f-9a1a-f85120c50020" />
+
+## NOTE :
+
+This project is developed solely for educational purposes and does not involve any commercial or monetary use.
+

@@ -188,8 +188,7 @@ Visit:
 
 ### LANDING PAGE
 
-<img width="1893" height="846" alt="Screenshot 2025-12-05 171456" src="https://github.com/user-attachments/assets/9a74994f-a0ff-4277-ac6f-c8d8c20bf4b6" />
-<img width="1892" height="844" alt="Screenshot 2025-12-05 171534" src="https://github.com/user-attachments/assets/51ed24e1-862f-408d-a35b-dec2fef4d391" />
+<img width="1885" height="846" alt="Screenshot 2025-12-05 171456" src="https://github.com/user-attachments/assets/f07a2878-d9eb-4ec2-b4e5-a3839f08942f" /><img width="1885" height="844" alt="Screenshot 2025-12-05 171534" src="https://github.com/user-attachments/assets/a22df80a-f7fa-4cd4-8c58-b6c590429243" />
 
 ### HOME PAGE
 
